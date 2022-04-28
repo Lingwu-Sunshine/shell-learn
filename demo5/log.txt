@@ -1,0 +1,13 @@
+在linux中环境变量HISTCONTROL可以控制历史的记录方式。
+
+ HISTCONTROL有以下的选项：
+
+ ignoredups          默认，忽略重复命令
+
+ ignorespace        忽略所有一空格开头的命令
+
+ ignoreboth          ignoredups 和 ignorespace 的组合
+
+ erasedups          删除历史记录中重复命令，相同的指令仅保留最近的一个
+
+ 如果同时设定多个选项，中间使用冒号
