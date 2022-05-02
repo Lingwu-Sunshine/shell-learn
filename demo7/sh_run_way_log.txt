@@ -1,0 +1,2 @@
+当前所在进程如下：?───?───com.termux─┬─zsh───bash───pstree
+                   └─27*[{com.termux}]
