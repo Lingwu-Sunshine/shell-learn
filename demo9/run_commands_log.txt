@@ -1,0 +1,12 @@
+/data/data/com.termux/files/home/shelldev/demo9
+get_env_var.sh
+get_env_var_log.txt
+review.md
+run_commands_log.txt
+run_commans.sh
+total 20
+-rw------- 1 u0_a381 u0_a381  97 May  3 12:33 get_env_var.sh
+-rw------- 1 u0_a381 u0_a381 122 May  3 12:35 get_env_var_log.txt
+-rw------- 1 u0_a381 u0_a381 607 May  3 12:58 review.md
+-rw------- 1 u0_a381 u0_a381 129 May  3 13:11 run_commands_log.txt
+-rw------- 1 u0_a381 u0_a381  72 May  3 13:09 run_commans.sh

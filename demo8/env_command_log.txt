@@ -1,0 +1,541 @@
+$全局变量set和declare：
+ set:
+ '!'=10636
+'#'=0
+'$'=10586
+'*'=(  )
+-=3569JNRXghikl
+0=env_command.sh
+'?'=0
+@=(  )
+ANDROID_ART_ROOT=/apex/com.android.art
+ANDROID_DATA=/data
+ANDROID_I18N_ROOT=/apex/com.android.i18n
+ANDROID_ROOT=/system
+ANDROID_TZDATA_ROOT=/apex/com.android.tzdata
+ARGC=0
+BG
+BOOTCLASSPATH=/apex/com.android.art/javalib/core-oj.jar:/apex/com.android.art/javalib/core-libart.jar:/apex/com.android.art/javalib/core-icu4j.jar:/apex/com.android.art/javalib/okhttp.jar:/apex/com.android.art/javalib/bouncycastle.jar:/apex/com.android.art/javalib/apache-xml.jar:/system/framework/framework.jar:/system/framework/ext.jar:/system/framework/telephony-common.jar:/system/framework/voip-common.jar:/system/framework/ims-common.jar:/system/framework/framework-atb-backward-compatibility.jar:/system/framework/tcmiface.jar:/system/framework/telephony-ext.jar:/system/framework/qcom.fmradio.jar:/system/framework/QPerformance.jar:/system/framework/UxPerformance.jar:/system/framework/WfdCommon.jar:/system/framework/vivo-framework.jar:/system/framework/vivo-media.jar:/system/framework/framework-adapter.jar:/system/framework/soc-framework.jar:/system/framework/vivo-vgcclient.jar:/system/framework/vivo-emmclient.jar:/apex/com.android.conscrypt/javalib/conscrypt.jar:/apex/com.android.media/javalib/updatable-media.jar:/apex/com.android.mediaprovider/javalib/framework-mediaprovider.jar:/apex/com.android.os.statsd/javalib/framework-statsd.jar:/apex/com.android.permission/javalib/framework-permission.jar:/apex/com.android.sdkext/javalib/framework-sdkextensions.jar:/apex/com.android.wifi/javalib/framework-wifi.jar:/apex/com.android.tethering/javalib/framework-tethering.jar
+CDPATH=''
+COLORTERM=truecolor
+COLUMNS=70
+CPUTYPE=aarch64
+CURRENT_BG=NONE
+CURRENT_FG=black
+DEX2OATBOOTCLASSPATH=/apex/com.android.art/javalib/core-oj.jar:/apex/com.android.art/javalib/core-libart.jar:/apex/com.android.art/javalib/core-icu4j.jar:/apex/com.android.art/javalib/okhttp.jar:/apex/com.android.art/javalib/bouncycastle.jar:/apex/com.android.art/javalib/apache-xml.jar:/system/framework/framework.jar:/system/framework/ext.jar:/system/framework/telephony-common.jar:/system/framework/voip-common.jar:/system/framework/ims-common.jar:/system/framework/framework-atb-backward-compatibility.jar:/system/framework/tcmiface.jar:/system/framework/telephony-ext.jar:/system/framework/qcom.fmradio.jar:/system/framework/QPerformance.jar:/system/framework/UxPerformance.jar:/system/framework/WfdCommon.jar:/system/framework/vivo-framework.jar:/system/framework/vivo-media.jar:/system/framework/framework-adapter.jar:/system/framework/soc-framework.jar:/system/framework/vivo-vgcclient.jar:/system/framework/vivo-emmclient.jar
+EGID=10381
+EPOCHREALTIME
+EPOCHSECONDS
+EUID=10381
+EXTERNAL_STORAGE=/sdcard
+FG
+FIGNORE=''
+FPATH=/data/data/com.termux/files/home/.oh-my-zsh/plugins/git:/data/data/com.termux/files/home/.oh-my-zsh/functions:/data/data/com.termux/files/home/.oh-my-zsh/completions:/data/data/com.termux/files/home/.oh-my-zsh/cache/completions:/data/data/com.termux/files/usr/share/zsh/site-functions:/data/data/com.termux/files/usr/share/zsh/5.8.1/functions
+FUNCNEST=500
+FX
+GID=10381
+HISTCHARS='!^#'
+HISTCMD=1627
+HISTFILE=/data/data/com.termux/files/home/.zsh_history
+HISTSIZE=50000
+HOME=/data/data/com.termux/files/home
+HOST=localhost
+IFS=$' 	
+\C-@'
+KEYBOARD_HACK=''
+KEYTIMEOUT=40
+LANG=en_US.UTF-8
+LD_PRELOAD=/data/data/com.termux/files/usr/lib/libtermux-exec.so
+LESS=-R
+LINENO=17
+LINES=40
+LISTMAX=100
+LOGCHECK=60
+LOGNAME=u0_a381
+LSCOLORS=Gxfxcxdxbxegedabagacad
+LS_COLORS='rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:'
+MACHTYPE=aarch64
+MAILCHECK=60
+MAILPATH=''
+MANPATH=''
+MODULE_PATH=/data/data/com.termux/files/usr/lib/zsh/5.8.1
+NULLCMD=cat
+OLDPWD=/data/data/com.termux/files/home/shelldev
+OPTARG=''
+OPTIND=1
+OSTYPE=linux-android
+PAGER=less
+PATH=/data/data/com.termux/files/usr/bin
+PPID=22257
+PREFIX=/data/data/com.termux/files/usr
+PROMPT='%{%f%b%k%}$(build_prompt) '
+PROMPT2='%_> '
+PROMPT3='?# '
+PROMPT4='+%N:%i> '
+PS1='%{%f%b%k%}$(build_prompt) '
+PS2='%_> '
+PS3='?# '
+PS4='+%N:%i> '
+PSVAR=''
+PWD=/data/data/com.termux/files/home/shelldev/demo8
+RANDOM=14215
+READNULLCMD=more
+SAVEHIST=10000
+SCREEN_NO=''
+SECONDS=367
+SEGMENT_SEPARATOR=
+SHELL=/data/data/com.termux/files/usr/bin/zsh
+SHLVL=1
+SHORT_HOST=localhost
+SPROMPT='zsh: correct '\''%R'\'' to '\''%r'\'' [nyae]? '
+TERM=xterm-256color
+TERMUX_APK_RELEASE=GITHUB
+TERMUX_APP_PID=22257
+TERMUX_IS_DEBUGGABLE_BUILD=1
+TERMUX_MAIN_PACKAGE_FORMAT=debian
+TERMUX_VERSION=0.118.0
+TIMEFMT='%J  %U user %S system %P cpu %*E total'
+TMPDIR=/data/data/com.termux/files/usr/tmp
+TMPPREFIX=/data/data/com.termux/files/usr/tmp/zsh
+TRY_BLOCK_ERROR=-1
+TRY_BLOCK_INTERRUPT=-1
+TTY=/dev/pts/0
+TTYIDLE=0
+UID=10381
+USERNAME=u0_a381
+VENDOR=unknown
+WATCH=''
+WATCHFMT='%n has %a %l.'
+WORDCHARS=''
+ZLS_COLORS='rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90::(-default-)rs=0:(-default-)di=01;34:(-default-)ln=01;36:(-default-)mh=00:(-default-)pi=40;33:(-default-)so=01;35:(-default-)do=01;35:(-default-)bd=40;33;01:(-default-)cd=40;33;01:(-default-)or=40;31;01:(-default-)mi=00:(-default-)su=37;41:(-default-)sg=30;43:(-default-)ca=00:(-default-)tw=30;42:(-default-)ow=34;42:(-default-)st=37;44:(-default-)ex=01;32:(-default-)*.tar=01;31:(-default-)*.tgz=01;31:(-default-)*.arc=01;31:(-default-)*.arj=01;31:(-default-)*.taz=01;31:(-default-)*.lha=01;31:(-default-)*.lz4=01;31:(-default-)*.lzh=01;31:(-default-)*.lzma=01;31:(-default-)*.tlz=01;31:(-default-)*.txz=01;31:(-default-)*.tzo=01;31:(-default-)*.t7z=01;31:(-default-)*.zip=01;31:(-default-)*.z=01;31:(-default-)*.dz=01;31:(-default-)*.gz=01;31:(-default-)*.lrz=01;31:(-default-)*.lz=01;31:(-default-)*.lzo=01;31:(-default-)*.xz=01;31:(-default-)*.zst=01;31:(-default-)*.tzst=01;31:(-default-)*.bz2=01;31:(-default-)*.bz=01;31:(-default-)*.tbz=01;31:(-default-)*.tbz2=01;31:(-default-)*.tz=01;31:(-default-)*.deb=01;31:(-default-)*.rpm=01;31:(-default-)*.jar=01;31:(-default-)*.war=01;31:(-default-)*.ear=01;31:(-default-)*.sar=01;31:(-default-)*.rar=01;31:(-default-)*.alz=01;31:(-default-)*.ace=01;31:(-default-)*.zoo=01;31:(-default-)*.cpio=01;31:(-default-)*.7z=01;31:(-default-)*.rz=01;31:(-default-)*.cab=01;31:(-default-)*.wim=01;31:(-default-)*.swm=01;31:(-default-)*.dwm=01;31:(-default-)*.esd=01;31:(-default-)*.avif=01;35:(-default-)*.jpg=01;35:(-default-)*.jpeg=01;35:(-default-)*.mjpg=01;35:(-default-)*.mjpeg=01;35:(-default-)*.gif=01;35:(-default-)*.bmp=01;35:(-default-)*.pbm=01;35:(-default-)*.pgm=01;35:(-default-)*.ppm=01;35:(-default-)*.tga=01;35:(-default-)*.xbm=01;35:(-default-)*.xpm=01;35:(-default-)*.tif=01;35:(-default-)*.tiff=01;35:(-default-)*.png=01;35:(-default-)*.svg=01;35:(-default-)*.svgz=01;35:(-default-)*.mng=01;35:(-default-)*.pcx=01;35:(-default-)*.mov=01;35:(-default-)*.mpg=01;35:(-default-)*.mpeg=01;35:(-default-)*.m2v=01;35:(-default-)*.mkv=01;35:(-default-)*.webm=01;35:(-default-)*.webp=01;35:(-default-)*.ogm=01;35:(-default-)*.mp4=01;35:(-default-)*.m4v=01;35:(-default-)*.mp4v=01;35:(-default-)*.vob=01;35:(-default-)*.qt=01;35:(-default-)*.nuv=01;35:(-default-)*.wmv=01;35:(-default-)*.asf=01;35:(-default-)*.rm=01;35:(-default-)*.rmvb=01;35:(-default-)*.flc=01;35:(-default-)*.avi=01;35:(-default-)*.fli=01;35:(-default-)*.flv=01;35:(-default-)*.gl=01;35:(-default-)*.dl=01;35:(-default-)*.xcf=01;35:(-default-)*.xwd=01;35:(-default-)*.yuv=01;35:(-default-)*.cgm=01;35:(-default-)*.emf=01;35:(-default-)*.ogv=01;35:(-default-)*.ogx=01;35:(-default-)*.aac=00;36:(-default-)*.au=00;36:(-default-)*.flac=00;36:(-default-)*.m4a=00;36:(-default-)*.mid=00;36:(-default-)*.midi=00;36:(-default-)*.mka=00;36:(-default-)*.mp3=00;36:(-default-)*.mpc=00;36:(-default-)*.ogg=00;36:(-default-)*.ra=00;36:(-default-)*.wav=00;36:(-default-)*.oga=00;36:(-default-)*.opus=00;36:(-default-)*.spx=00;36:(-default-)*.xspf=00;36:(-default-)*~=00;90:(-default-)*#=00;90:(-default-)*.bak=00;90:(-default-)*.old=00;90:(-default-)*.orig=00;90:(-default-)*.part=00;90:(-default-)*.rej=00;90:(-default-)*.swp=00;90:(-default-)*.tmp=00;90:(-default-)*.dpkg-dist=00;90:(-default-)*.dpkg-old=00;90:(-default-)*.ucf-dist=00;90:(-default-)*.ucf-new=00;90:(-default-)*.ucf-old=00;90:(-default-)*.rpmnew=00;90:(-default-)*.rpmorig=00;90:(-default-)*.rpmsave=00;90'
+ZSH=/data/data/com.termux/files/home/.oh-my-zsh
+ZSH_ARGZERO=/data/data/com.termux/files/usr/bin/zsh
+ZSH_CACHE_DIR=/data/data/com.termux/files/home/.oh-my-zsh/cache
+ZSH_COMPDUMP=/data/data/com.termux/files/home/.zcompdump-localhost-5.8.1
+ZSH_CUSTOM=/data/data/com.termux/files/home/.oh-my-zsh/custom
+ZSH_EVAL_CONTEXT=toplevel:file:cmdsubst
+ZSH_HIGHLIGHT_DIRS_BLACKLIST=(  )
+ZSH_HIGHLIGHT_HIGHLIGHTERS=( main )
+ZSH_HIGHLIGHT_PATTERNS=( )
+ZSH_HIGHLIGHT_REGEXP=( )
+ZSH_HIGHLIGHT_REVISION=HEAD
+ZSH_HIGHLIGHT_STYLES=( [arg0]='fg=green' [assign]=none [autodirectory]='fg=green,underline' [back-dollar-quoted-argument]='fg=cyan' [back-double-quoted-argument]='fg=cyan' [back-quoted-argument]=none [back-quoted-argument-delimiter]='fg=magenta' [bracket-error]='fg=red,bold' [bracket-level-1]='fg=blue,bold' [bracket-level-2]='fg=green,bold' [bracket-level-3]='fg=magenta,bold' [bracket-level-4]='fg=yellow,bold' [bracket-level-5]='fg=cyan,bold' [command-substitution]=none [command-substitution-delimiter]='fg=magenta' [commandseparator]=none [comment]='fg=black,bold' [cursor]=standout [cursor-matchingbracket]=standout [default]=none [dollar-double-quoted-argument]='fg=cyan' [dollar-quoted-argument]='fg=yellow' [double-hyphen-option]=none [double-quoted-argument]='fg=yellow' [global-alias]='fg=cyan' [globbing]='fg=blue' [history-expansion]='fg=blue' [line]='' [named-fd]=none [numeric-fd]=none [path]=underline [path_pathseparator]='' [path_prefix_pathseparator]='' [precommand]='fg=green,underline' [process-substitution]=none [process-substitution-delimiter]='fg=magenta' [rc-quote]='fg=cyan' [redirection]='fg=yellow' [reserved-word]='fg=yellow' [root]=standout [single-hyphen-option]=none [single-quoted-argument]='fg=yellow' [suffix-alias]='fg=green,underline' [unknown-token]='fg=red,bold' )
+ZSH_HIGHLIGHT_VERSION=0.8.0-alpha2-dev
+ZSH_NAME=zsh
+ZSH_PATCHLEVEL=zsh-5.8.1-0-g1a490c7
+ZSH_SUBSHELL=1
+ZSH_THEME=agnoster
+ZSH_THEME_GIT_PROMPT_CLEAN=''
+ZSH_THEME_GIT_PROMPT_DIRTY='*'
+ZSH_THEME_GIT_PROMPT_PREFIX='git:('
+ZSH_THEME_GIT_PROMPT_SUFFIX=')'
+ZSH_THEME_RUBY_PROMPT_PREFIX='('
+ZSH_THEME_RUBY_PROMPT_SUFFIX=')'
+ZSH_THEME_RVM_PROMPT_OPTIONS='i v g'
+ZSH_THEME_TERM_TAB_TITLE_IDLE='%15<..<%~%<<'
+ZSH_THEME_TERM_TITLE_IDLE='%n@%m:%~'
+ZSH_VERSION=5.8.1
+_=set
+_ZSH_HIGHLIGHT_PRIOR_BUFFER=''
+_ZSH_HIGHLIGHT_PRIOR_CURSOR=0
+__savecursor=0
+__searching=up-line-or-beginning-search
+_comp_assocs=( '' )
+_comp_dumpfile=/data/data/com.termux/files/home/.zcompdump-localhost-5.8.1
+_comp_options
+_comp_setup
+_compautos
+_comps
+_lastcomp
+_patcomps
+_postpatcomps
+_services
+_zsh_highlight__highlighter_main_cache=( '0 6 fg=green' '7 21 underline' )
+_zsh_highlight_main__command_type_cache=( [cd]=builtin ['demo1="67666"']=none ['demo1=67666']=none ['demo2="577888"']=none ['demo2=577888']=none ['demo3=$demo1$demo2']=none ['demo3=$demo1+$demo2']=none [echo]=builtin [exit]=builtin [set]=builtin [source]=builtin [vim]=command )
+aliases
+argv=(  )
+bg
+bg_bold
+bg_no_bold
+bold_color
+builtins
+cdpath=(  )
+color=( [00]=none [01]=bold [02]=faint [03]=standout [04]=underline [05]=blink [07]=reverse [08]=conceal [22]=normal [23]=no-standout [24]=no-underline [25]=no-blink [27]=no-reverse [28]=no-conceal [30]=black [31]=red [32]=green [33]=yellow [34]=blue [35]=magenta [36]=cyan [37]=white [39]=default [40]=bg-black [41]=bg-red [42]=bg-green [43]=bg-yellow [44]=bg-blue [45]=bg-magenta [46]=bg-cyan [47]=bg-white [49]=bg-default [bg-black]=40 [bg-blue]=44 [bg-cyan]=46 [bg-default]=49 [bg-green]=42 [bg-grey]=40 [bg-magenta]=45 [bg-red]=41 [bg-white]=47 [bg-yellow]=43 [black]=30 [blink]=05 [blue]=34 [bold]=01 [conceal]=08 [cyan]=36 [default]=39 [faint]=02 [fg-black]=30 [fg-blue]=34 [fg-cyan]=36 [fg-default]=39 [fg-green]=32 [fg-grey]=30 [fg-magenta]=35 [fg-red]=31 [fg-white]=37 [fg-yellow]=33 [green]=32 [grey]=30 [magenta]=35 [no-blink]=25 [no-conceal]=28 [no-reverse]=27 [no-standout]=23 [no-underline]=24 [none]=00 [normal]=22 [red]=31 [reverse]=07 [standout]=03 [underline]=04 [white]=37 [yellow]=33 )
+colour=( [00]=none [01]=bold [02]=faint [03]=standout [04]=underline [05]=blink [07]=reverse [08]=conceal [22]=normal [23]=no-standout [24]=no-underline [25]=no-blink [27]=no-reverse [28]=no-conceal [30]=black [31]=red [32]=green [33]=yellow [34]=blue [35]=magenta [36]=cyan [37]=white [39]=default [40]=bg-black [41]=bg-red [42]=bg-green [43]=bg-yellow [44]=bg-blue [45]=bg-magenta [46]=bg-cyan [47]=bg-white [49]=bg-default [bg-black]=40 [bg-blue]=44 [bg-cyan]=46 [bg-default]=49 [bg-green]=42 [bg-grey]=40 [bg-magenta]=45 [bg-red]=41 [bg-white]=47 [bg-yellow]=43 [black]=30 [blink]=05 [blue]=34 [bold]=01 [conceal]=08 [cyan]=36 [default]=39 [faint]=02 [fg-black]=30 [fg-blue]=34 [fg-cyan]=36 [fg-default]=39 [fg-green]=32 [fg-grey]=30 [fg-magenta]=35 [fg-red]=31 [fg-white]=37 [fg-yellow]=33 [green]=32 [grey]=30 [magenta]=35 [no-blink]=25 [no-conceal]=28 [no-reverse]=27 [no-standout]=23 [no-underline]=24 [none]=00 [normal]=22 [red]=31 [reverse]=07 [standout]=03 [underline]=04 [white]=37 [yellow]=33 )
+commands
+comppostfuncs=(  )
+compprefuncs=(  )
+d=/data/data/com.termux/files/usr/share/zsh/5.8.1/functions
+dirstack
+dis_aliases
+dis_builtins
+dis_functions
+dis_functions_source
+dis_galiases
+dis_patchars
+dis_reswords
+dis_saliases
+enter='
+'
+env_string=''
+epochtime
+fg
+fg_bold
+fg_no_bold
+fignore=(  )
+fpath=( /data/data/com.termux/files/home/.oh-my-zsh/plugins/git /data/data/com.termux/files/home/.oh-my-zsh/functions /data/data/com.termux/files/home/.oh-my-zsh/completions /data/data/com.termux/files/home/.oh-my-zsh/cache/completions /data/data/com.termux/files/usr/share/zsh/site-functions /data/data/com.termux/files/usr/share/zsh/5.8.1/functions )
+funcfiletrace
+funcsourcetrace
+funcstack
+functions
+functions_source
+functrace
+galiases
+histchars='!^#'
+history
+historywords
+jobdirs
+jobstates
+jobtexts
+keymaps
+langinfo
+log_path=./env_command_log.txt
+mailpath=(  )
+manpath=(  )
+module_path=( /data/data/com.termux/files/usr/lib/zsh/5.8.1 )
+modules
+nameddirs
+options
+parameters
+patchars
+path=( /data/data/com.termux/files/usr/bin )
+pipestatus=( 0 )
+plugins=( git )
+precmd_functions=( omz_termsupport_precmd _zsh_highlight_main__precmd_hook )
+preexec_functions=( omz_termsupport_preexec _zsh_highlight_preexec_hook )
+prompt='%{%f%b%k%}$(build_prompt) '
+psvar=(  )
+reset_color
+reswords
+ret=0
+saliases
+set_string=''
+signals=( EXIT HUP INT QUIT ILL TRAP ABRT BUS FPE KILL USR1 SEGV USR2 PIPE ALRM TERM STKFLT CHLD CONT STOP TSTP TTIN TTOU URG XCPU XFSZ VTALRM PROF WINCH POLL PWR SYS ZERR DEBUG )
+status=0
+termcap
+terminfo
+userdirs
+usergroups
+watch=(  )
+widgets
+write_string=''
+zle_bracketed_paste=( $'\C-[[?2004h' $'\C-[[?2004l' )
+zsh_eval_context=( toplevel file cmdsubst )
+zsh_highlight__memo_feature=0
+zsh_highlight__pat_static_bug=false
+zsh_scheduled_events 
+ 
+  declare: 
+ integer 10 readonly '!'=10636
+integer 10 readonly '#'=0
+integer 10 readonly '$'=10586
+array readonly '*'=(  )
+readonly -=3569JNRXghikl
+0=env_command.sh
+integer 10 readonly '?'=0
+array readonly @=(  )
+ANDROID_ART_ROOT=/apex/com.android.art
+ANDROID_DATA=/data
+ANDROID_I18N_ROOT=/apex/com.android.i18n
+ANDROID_ROOT=/system
+ANDROID_TZDATA_ROOT=/apex/com.android.tzdata
+integer 10 readonly ARGC=0
+association BG
+BOOTCLASSPATH=/apex/com.android.art/javalib/core-oj.jar:/apex/com.android.art/javalib/core-libart.jar:/apex/com.android.art/javalib/core-icu4j.jar:/apex/com.android.art/javalib/okhttp.jar:/apex/com.android.art/javalib/bouncycastle.jar:/apex/com.android.art/javalib/apache-xml.jar:/system/framework/framework.jar:/system/framework/ext.jar:/system/framework/telephony-common.jar:/system/framework/voip-common.jar:/system/framework/ims-common.jar:/system/framework/framework-atb-backward-compatibility.jar:/system/framework/tcmiface.jar:/system/framework/telephony-ext.jar:/system/framework/qcom.fmradio.jar:/system/framework/QPerformance.jar:/system/framework/UxPerformance.jar:/system/framework/WfdCommon.jar:/system/framework/vivo-framework.jar:/system/framework/vivo-media.jar:/system/framework/framework-adapter.jar:/system/framework/soc-framework.jar:/system/framework/vivo-vgcclient.jar:/system/framework/vivo-emmclient.jar:/apex/com.android.conscrypt/javalib/conscrypt.jar:/apex/com.android.media/javalib/updatable-media.jar:/apex/com.android.mediaprovider/javalib/framework-mediaprovider.jar:/apex/com.android.os.statsd/javalib/framework-statsd.jar:/apex/com.android.permission/javalib/framework-permission.jar:/apex/com.android.sdkext/javalib/framework-sdkextensions.jar:/apex/com.android.wifi/javalib/framework-wifi.jar:/apex/com.android.tethering/javalib/framework-tethering.jar
+tied cdpath CDPATH=''
+COLORTERM=truecolor
+integer 10 COLUMNS=70
+CPUTYPE=aarch64
+CURRENT_BG=NONE
+CURRENT_FG=black
+DEX2OATBOOTCLASSPATH=/apex/com.android.art/javalib/core-oj.jar:/apex/com.android.art/javalib/core-libart.jar:/apex/com.android.art/javalib/core-icu4j.jar:/apex/com.android.art/javalib/okhttp.jar:/apex/com.android.art/javalib/bouncycastle.jar:/apex/com.android.art/javalib/apache-xml.jar:/system/framework/framework.jar:/system/framework/ext.jar:/system/framework/telephony-common.jar:/system/framework/voip-common.jar:/system/framework/ims-common.jar:/system/framework/framework-atb-backward-compatibility.jar:/system/framework/tcmiface.jar:/system/framework/telephony-ext.jar:/system/framework/qcom.fmradio.jar:/system/framework/QPerformance.jar:/system/framework/UxPerformance.jar:/system/framework/WfdCommon.jar:/system/framework/vivo-framework.jar:/system/framework/vivo-media.jar:/system/framework/framework-adapter.jar:/system/framework/soc-framework.jar:/system/framework/vivo-vgcclient.jar:/system/framework/vivo-emmclient.jar
+integer 10 EGID=10381
+float readonly EPOCHREALTIME
+integer readonly EPOCHSECONDS
+integer 10 EUID=10381
+EXTERNAL_STORAGE=/sdcard
+association FG
+tied fignore FIGNORE=''
+tied fpath FPATH=/data/data/com.termux/files/home/.oh-my-zsh/plugins/git:/data/data/com.termux/files/home/.oh-my-zsh/functions:/data/data/com.termux/files/home/.oh-my-zsh/completions:/data/data/com.termux/files/home/.oh-my-zsh/cache/completions:/data/data/com.termux/files/usr/share/zsh/site-functions:/data/data/com.termux/files/usr/share/zsh/5.8.1/functions
+integer 10 FUNCNEST=500
+association FX
+integer 10 GID=10381
+HISTCHARS='!^#'
+integer 10 readonly HISTCMD=1627
+HISTFILE=/data/data/com.termux/files/home/.zsh_history
+integer 10 HISTSIZE=50000
+HOME=/data/data/com.termux/files/home
+HOST=localhost
+IFS=$' 	
+\C-@'
+KEYBOARD_HACK=''
+integer KEYTIMEOUT=40
+LANG=en_US.UTF-8
+LD_PRELOAD=/data/data/com.termux/files/usr/lib/libtermux-exec.so
+LESS=-R
+integer 10 readonly LINENO=17
+integer 10 LINES=40
+integer LISTMAX=100
+integer LOGCHECK=60
+LOGNAME=u0_a381
+LSCOLORS=Gxfxcxdxbxegedabagacad
+LS_COLORS='rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:'
+MACHTYPE=aarch64
+integer MAILCHECK=60
+tied mailpath MAILPATH=''
+tied manpath MANPATH=''
+tied module_path MODULE_PATH=/data/data/com.termux/files/usr/lib/zsh/5.8.1
+NULLCMD=cat
+OLDPWD=/data/data/com.termux/files/home/shelldev
+OPTARG=''
+integer 10 OPTIND=1
+OSTYPE=linux-android
+PAGER=less
+tied path PATH=/data/data/com.termux/files/usr/bin
+integer 10 readonly PPID=22257
+PREFIX=/data/data/com.termux/files/usr
+PROMPT='%{%f%b%k%}$(build_prompt) '
+PROMPT2='%_> '
+PROMPT3='?# '
+PROMPT4='+%N:%i> '
+PS1='%{%f%b%k%}$(build_prompt) '
+PS2='%_> '
+PS3='?# '
+PS4='+%N:%i> '
+tied psvar PSVAR=''
+PWD=/data/data/com.termux/files/home/shelldev/demo8
+integer 10 RANDOM=14215
+READNULLCMD=more
+integer 10 SAVEHIST=10000
+SCREEN_NO=''
+integer 10 SECONDS=367
+SEGMENT_SEPARATOR=
+SHELL=/data/data/com.termux/files/usr/bin/zsh
+integer 10 SHLVL=1
+SHORT_HOST=localhost
+SPROMPT='zsh: correct '\''%R'\'' to '\''%r'\'' [nyae]? '
+TERM=xterm-256color
+TERMUX_APK_RELEASE=GITHUB
+TERMUX_APP_PID=22257
+TERMUX_IS_DEBUGGABLE_BUILD=1
+TERMUX_MAIN_PACKAGE_FORMAT=debian
+TERMUX_VERSION=0.118.0
+TIMEFMT='%J  %U user %S system %P cpu %*E total'
+TMPDIR=/data/data/com.termux/files/usr/tmp
+TMPPREFIX=/data/data/com.termux/files/usr/tmp/zsh
+integer 10 TRY_BLOCK_ERROR=-1
+integer 10 TRY_BLOCK_INTERRUPT=-1
+TTY=/dev/pts/0
+integer 10 readonly TTYIDLE=0
+integer 10 UID=10381
+USERNAME=u0_a381
+VENDOR=unknown
+tied watch WATCH=''
+WATCHFMT='%n has %a %l.'
+WORDCHARS=''
+ZLS_COLORS='rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90::(-default-)rs=0:(-default-)di=01;34:(-default-)ln=01;36:(-default-)mh=00:(-default-)pi=40;33:(-default-)so=01;35:(-default-)do=01;35:(-default-)bd=40;33;01:(-default-)cd=40;33;01:(-default-)or=40;31;01:(-default-)mi=00:(-default-)su=37;41:(-default-)sg=30;43:(-default-)ca=00:(-default-)tw=30;42:(-default-)ow=34;42:(-default-)st=37;44:(-default-)ex=01;32:(-default-)*.tar=01;31:(-default-)*.tgz=01;31:(-default-)*.arc=01;31:(-default-)*.arj=01;31:(-default-)*.taz=01;31:(-default-)*.lha=01;31:(-default-)*.lz4=01;31:(-default-)*.lzh=01;31:(-default-)*.lzma=01;31:(-default-)*.tlz=01;31:(-default-)*.txz=01;31:(-default-)*.tzo=01;31:(-default-)*.t7z=01;31:(-default-)*.zip=01;31:(-default-)*.z=01;31:(-default-)*.dz=01;31:(-default-)*.gz=01;31:(-default-)*.lrz=01;31:(-default-)*.lz=01;31:(-default-)*.lzo=01;31:(-default-)*.xz=01;31:(-default-)*.zst=01;31:(-default-)*.tzst=01;31:(-default-)*.bz2=01;31:(-default-)*.bz=01;31:(-default-)*.tbz=01;31:(-default-)*.tbz2=01;31:(-default-)*.tz=01;31:(-default-)*.deb=01;31:(-default-)*.rpm=01;31:(-default-)*.jar=01;31:(-default-)*.war=01;31:(-default-)*.ear=01;31:(-default-)*.sar=01;31:(-default-)*.rar=01;31:(-default-)*.alz=01;31:(-default-)*.ace=01;31:(-default-)*.zoo=01;31:(-default-)*.cpio=01;31:(-default-)*.7z=01;31:(-default-)*.rz=01;31:(-default-)*.cab=01;31:(-default-)*.wim=01;31:(-default-)*.swm=01;31:(-default-)*.dwm=01;31:(-default-)*.esd=01;31:(-default-)*.avif=01;35:(-default-)*.jpg=01;35:(-default-)*.jpeg=01;35:(-default-)*.mjpg=01;35:(-default-)*.mjpeg=01;35:(-default-)*.gif=01;35:(-default-)*.bmp=01;35:(-default-)*.pbm=01;35:(-default-)*.pgm=01;35:(-default-)*.ppm=01;35:(-default-)*.tga=01;35:(-default-)*.xbm=01;35:(-default-)*.xpm=01;35:(-default-)*.tif=01;35:(-default-)*.tiff=01;35:(-default-)*.png=01;35:(-default-)*.svg=01;35:(-default-)*.svgz=01;35:(-default-)*.mng=01;35:(-default-)*.pcx=01;35:(-default-)*.mov=01;35:(-default-)*.mpg=01;35:(-default-)*.mpeg=01;35:(-default-)*.m2v=01;35:(-default-)*.mkv=01;35:(-default-)*.webm=01;35:(-default-)*.webp=01;35:(-default-)*.ogm=01;35:(-default-)*.mp4=01;35:(-default-)*.m4v=01;35:(-default-)*.mp4v=01;35:(-default-)*.vob=01;35:(-default-)*.qt=01;35:(-default-)*.nuv=01;35:(-default-)*.wmv=01;35:(-default-)*.asf=01;35:(-default-)*.rm=01;35:(-default-)*.rmvb=01;35:(-default-)*.flc=01;35:(-default-)*.avi=01;35:(-default-)*.fli=01;35:(-default-)*.flv=01;35:(-default-)*.gl=01;35:(-default-)*.dl=01;35:(-default-)*.xcf=01;35:(-default-)*.xwd=01;35:(-default-)*.yuv=01;35:(-default-)*.cgm=01;35:(-default-)*.emf=01;35:(-default-)*.ogv=01;35:(-default-)*.ogx=01;35:(-default-)*.aac=00;36:(-default-)*.au=00;36:(-default-)*.flac=00;36:(-default-)*.m4a=00;36:(-default-)*.mid=00;36:(-default-)*.midi=00;36:(-default-)*.mka=00;36:(-default-)*.mp3=00;36:(-default-)*.mpc=00;36:(-default-)*.ogg=00;36:(-default-)*.ra=00;36:(-default-)*.wav=00;36:(-default-)*.oga=00;36:(-default-)*.opus=00;36:(-default-)*.spx=00;36:(-default-)*.xspf=00;36:(-default-)*~=00;90:(-default-)*#=00;90:(-default-)*.bak=00;90:(-default-)*.old=00;90:(-default-)*.orig=00;90:(-default-)*.part=00;90:(-default-)*.rej=00;90:(-default-)*.swp=00;90:(-default-)*.tmp=00;90:(-default-)*.dpkg-dist=00;90:(-default-)*.dpkg-old=00;90:(-default-)*.ucf-dist=00;90:(-default-)*.ucf-new=00;90:(-default-)*.ucf-old=00;90:(-default-)*.rpmnew=00;90:(-default-)*.rpmorig=00;90:(-default-)*.rpmsave=00;90'
+ZSH=/data/data/com.termux/files/home/.oh-my-zsh
+ZSH_ARGZERO=/data/data/com.termux/files/usr/bin/zsh
+ZSH_CACHE_DIR=/data/data/com.termux/files/home/.oh-my-zsh/cache
+ZSH_COMPDUMP=/data/data/com.termux/files/home/.zcompdump-localhost-5.8.1
+ZSH_CUSTOM=/data/data/com.termux/files/home/.oh-my-zsh/custom
+readonly tied zsh_eval_context ZSH_EVAL_CONTEXT=toplevel:file:cmdsubst
+array ZSH_HIGHLIGHT_DIRS_BLACKLIST=(  )
+array ZSH_HIGHLIGHT_HIGHLIGHTERS=( main )
+association ZSH_HIGHLIGHT_PATTERNS=( )
+association ZSH_HIGHLIGHT_REGEXP=( )
+ZSH_HIGHLIGHT_REVISION=HEAD
+association ZSH_HIGHLIGHT_STYLES=( [arg0]='fg=green' [assign]=none [autodirectory]='fg=green,underline' [back-dollar-quoted-argument]='fg=cyan' [back-double-quoted-argument]='fg=cyan' [back-quoted-argument]=none [back-quoted-argument-delimiter]='fg=magenta' [bracket-error]='fg=red,bold' [bracket-level-1]='fg=blue,bold' [bracket-level-2]='fg=green,bold' [bracket-level-3]='fg=magenta,bold' [bracket-level-4]='fg=yellow,bold' [bracket-level-5]='fg=cyan,bold' [command-substitution]=none [command-substitution-delimiter]='fg=magenta' [commandseparator]=none [comment]='fg=black,bold' [cursor]=standout [cursor-matchingbracket]=standout [default]=none [dollar-double-quoted-argument]='fg=cyan' [dollar-quoted-argument]='fg=yellow' [double-hyphen-option]=none [double-quoted-argument]='fg=yellow' [global-alias]='fg=cyan' [globbing]='fg=blue' [history-expansion]='fg=blue' [line]='' [named-fd]=none [numeric-fd]=none [path]=underline [path_pathseparator]='' [path_prefix_pathseparator]='' [precommand]='fg=green,underline' [process-substitution]=none [process-substitution-delimiter]='fg=magenta' [rc-quote]='fg=cyan' [redirection]='fg=yellow' [reserved-word]='fg=yellow' [root]=standout [single-hyphen-option]=none [single-quoted-argument]='fg=yellow' [suffix-alias]='fg=green,underline' [unknown-token]='fg=red,bold' )
+ZSH_HIGHLIGHT_VERSION=0.8.0-alpha2-dev
+ZSH_NAME=zsh
+ZSH_PATCHLEVEL=zsh-5.8.1-0-g1a490c7
+integer 10 readonly ZSH_SUBSHELL=1
+ZSH_THEME=agnoster
+ZSH_THEME_GIT_PROMPT_CLEAN=''
+ZSH_THEME_GIT_PROMPT_DIRTY='*'
+ZSH_THEME_GIT_PROMPT_PREFIX='git:('
+ZSH_THEME_GIT_PROMPT_SUFFIX=')'
+ZSH_THEME_RUBY_PROMPT_PREFIX='('
+ZSH_THEME_RUBY_PROMPT_SUFFIX=')'
+ZSH_THEME_RVM_PROMPT_OPTIONS='i v g'
+ZSH_THEME_TERM_TAB_TITLE_IDLE='%15<..<%~%<<'
+ZSH_THEME_TERM_TITLE_IDLE='%n@%m:%~'
+ZSH_VERSION=5.8.1
+_=declare
+_ZSH_HIGHLIGHT_PRIOR_BUFFER=''
+integer _ZSH_HIGHLIGHT_PRIOR_CURSOR=0
+__savecursor=0
+__searching=up-line-or-beginning-search
+array unique _comp_assocs=( '' )
+_comp_dumpfile=/data/data/com.termux/files/home/.zcompdump-localhost-5.8.1
+array _comp_options
+_comp_setup
+association _compautos
+association _comps
+association _lastcomp
+association _patcomps
+association _postpatcomps
+association _services
+array _zsh_highlight__highlighter_main_cache=( '0 6 fg=green' '7 21 underline' )
+association _zsh_highlight_main__command_type_cache=( [cd]=builtin ['demo1="67666"']=none ['demo1=67666']=none ['demo2="577888"']=none ['demo2=577888']=none ['demo3=$demo1$demo2']=none ['demo3=$demo1+$demo2']=none [echo]=builtin [exit]=builtin [set]=builtin [source]=builtin [vim]=command )
+association aliases
+array argv=(  )
+association bg
+association bg_bold
+association bg_no_bold
+bold_color
+association readonly builtins
+array tied CDPATH cdpath=(  )
+association color=( [00]=none [01]=bold [02]=faint [03]=standout [04]=underline [05]=blink [07]=reverse [08]=conceal [22]=normal [23]=no-standout [24]=no-underline [25]=no-blink [27]=no-reverse [28]=no-conceal [30]=black [31]=red [32]=green [33]=yellow [34]=blue [35]=magenta [36]=cyan [37]=white [39]=default [40]=bg-black [41]=bg-red [42]=bg-green [43]=bg-yellow [44]=bg-blue [45]=bg-magenta [46]=bg-cyan [47]=bg-white [49]=bg-default [bg-black]=40 [bg-blue]=44 [bg-cyan]=46 [bg-default]=49 [bg-green]=42 [bg-grey]=40 [bg-magenta]=45 [bg-red]=41 [bg-white]=47 [bg-yellow]=43 [black]=30 [blink]=05 [blue]=34 [bold]=01 [conceal]=08 [cyan]=36 [default]=39 [faint]=02 [fg-black]=30 [fg-blue]=34 [fg-cyan]=36 [fg-default]=39 [fg-green]=32 [fg-grey]=30 [fg-magenta]=35 [fg-red]=31 [fg-white]=37 [fg-yellow]=33 [green]=32 [grey]=30 [magenta]=35 [no-blink]=25 [no-conceal]=28 [no-reverse]=27 [no-standout]=23 [no-underline]=24 [none]=00 [normal]=22 [red]=31 [reverse]=07 [standout]=03 [underline]=04 [white]=37 [yellow]=33 )
+association colour=( [00]=none [01]=bold [02]=faint [03]=standout [04]=underline [05]=blink [07]=reverse [08]=conceal [22]=normal [23]=no-standout [24]=no-underline [25]=no-blink [27]=no-reverse [28]=no-conceal [30]=black [31]=red [32]=green [33]=yellow [34]=blue [35]=magenta [36]=cyan [37]=white [39]=default [40]=bg-black [41]=bg-red [42]=bg-green [43]=bg-yellow [44]=bg-blue [45]=bg-magenta [46]=bg-cyan [47]=bg-white [49]=bg-default [bg-black]=40 [bg-blue]=44 [bg-cyan]=46 [bg-default]=49 [bg-green]=42 [bg-grey]=40 [bg-magenta]=45 [bg-red]=41 [bg-white]=47 [bg-yellow]=43 [black]=30 [blink]=05 [blue]=34 [bold]=01 [conceal]=08 [cyan]=36 [default]=39 [faint]=02 [fg-black]=30 [fg-blue]=34 [fg-cyan]=36 [fg-default]=39 [fg-green]=32 [fg-grey]=30 [fg-magenta]=35 [fg-red]=31 [fg-white]=37 [fg-yellow]=33 [green]=32 [grey]=30 [magenta]=35 [no-blink]=25 [no-conceal]=28 [no-reverse]=27 [no-standout]=23 [no-underline]=24 [none]=00 [normal]=22 [red]=31 [reverse]=07 [standout]=03 [underline]=04 [white]=37 [yellow]=33 )
+association commands
+array comppostfuncs=(  )
+array compprefuncs=(  )
+d=/data/data/com.termux/files/usr/share/zsh/5.8.1/functions
+array dirstack
+association dis_aliases
+association readonly dis_builtins
+association dis_functions
+association readonly dis_functions_source
+association dis_galiases
+array readonly dis_patchars
+array readonly dis_reswords
+association dis_saliases
+enter='
+'
+env_string=''
+array readonly epochtime
+association fg
+association fg_bold
+association fg_no_bold
+array tied FIGNORE fignore=(  )
+array tied FPATH fpath=( /data/data/com.termux/files/home/.oh-my-zsh/plugins/git /data/data/com.termux/files/home/.oh-my-zsh/functions /data/data/com.termux/files/home/.oh-my-zsh/completions /data/data/com.termux/files/home/.oh-my-zsh/cache/completions /data/data/com.termux/files/usr/share/zsh/site-functions /data/data/com.termux/files/usr/share/zsh/5.8.1/functions )
+array readonly funcfiletrace
+array readonly funcsourcetrace
+array readonly funcstack
+association functions
+association readonly functions_source
+array readonly functrace
+association galiases
+histchars='!^#'
+association readonly history
+array readonly historywords
+association readonly jobdirs
+association readonly jobstates
+association readonly jobtexts
+array readonly keymaps
+association langinfo
+log_path=./env_command_log.txt
+array tied MAILPATH mailpath=(  )
+array tied MANPATH manpath=(  )
+array tied MODULE_PATH module_path=( /data/data/com.termux/files/usr/lib/zsh/5.8.1 )
+association readonly modules
+association nameddirs
+association options
+association readonly parameters
+array readonly patchars
+array tied PATH path=( /data/data/com.termux/files/usr/bin )
+array pipestatus=( 0 )
+array plugins=( git )
+array precmd_functions=( omz_termsupport_precmd _zsh_highlight_main__precmd_hook )
+array preexec_functions=( omz_termsupport_preexec _zsh_highlight_preexec_hook )
+prompt='%{%f%b%k%}$(build_prompt) '
+array tied PSVAR psvar=(  )
+reset_color
+array readonly reswords
+ret=0
+association saliases
+set_string=''
+array signals=( EXIT HUP INT QUIT ILL TRAP ABRT BUS FPE KILL USR1 SEGV USR2 PIPE ALRM TERM STKFLT CHLD CONT STOP TSTP TTIN TTOU URG XCPU XFSZ VTALRM PROF WINCH POLL PWR SYS ZERR DEBUG )
+integer 10 readonly status=0
+undefined termcap
+association readonly terminfo
+association readonly userdirs
+association readonly usergroups
+array tied WATCH watch=(  )
+association readonly widgets
+write_string=''
+array zle_bracketed_paste=( $'\C-[[?2004h' $'\C-[[?2004l' )
+array readonly tied ZSH_EVAL_CONTEXT zsh_eval_context=( toplevel file cmdsubst )
+integer readonly zsh_highlight__memo_feature=0
+zsh_highlight__pat_static_bug=false
+undefined zsh_scheduled_events
+
+
+$全局变量env和export：
+ env:
+ DEX2OATBOOTCLASSPATH=/apex/com.android.art/javalib/core-oj.jar:/apex/com.android.art/javalib/core-libart.jar:/apex/com.android.art/javalib/core-icu4j.jar:/apex/com.android.art/javalib/okhttp.jar:/apex/com.android.art/javalib/bouncycastle.jar:/apex/com.android.art/javalib/apache-xml.jar:/system/framework/framework.jar:/system/framework/ext.jar:/system/framework/telephony-common.jar:/system/framework/voip-common.jar:/system/framework/ims-common.jar:/system/framework/framework-atb-backward-compatibility.jar:/system/framework/tcmiface.jar:/system/framework/telephony-ext.jar:/system/framework/qcom.fmradio.jar:/system/framework/QPerformance.jar:/system/framework/UxPerformance.jar:/system/framework/WfdCommon.jar:/system/framework/vivo-framework.jar:/system/framework/vivo-media.jar:/system/framework/framework-adapter.jar:/system/framework/soc-framework.jar:/system/framework/vivo-vgcclient.jar:/system/framework/vivo-emmclient.jar
+TERMUX_MAIN_PACKAGE_FORMAT=debian
+EXTERNAL_STORAGE=/sdcard
+HOME=/data/data/com.termux/files/home
+TERMUX_APP_PID=22257
+BOOTCLASSPATH=/apex/com.android.art/javalib/core-oj.jar:/apex/com.android.art/javalib/core-libart.jar:/apex/com.android.art/javalib/core-icu4j.jar:/apex/com.android.art/javalib/okhttp.jar:/apex/com.android.art/javalib/bouncycastle.jar:/apex/com.android.art/javalib/apache-xml.jar:/system/framework/framework.jar:/system/framework/ext.jar:/system/framework/telephony-common.jar:/system/framework/voip-common.jar:/system/framework/ims-common.jar:/system/framework/framework-atb-backward-compatibility.jar:/system/framework/tcmiface.jar:/system/framework/telephony-ext.jar:/system/framework/qcom.fmradio.jar:/system/framework/QPerformance.jar:/system/framework/UxPerformance.jar:/system/framework/WfdCommon.jar:/system/framework/vivo-framework.jar:/system/framework/vivo-media.jar:/system/framework/framework-adapter.jar:/system/framework/soc-framework.jar:/system/framework/vivo-vgcclient.jar:/system/framework/vivo-emmclient.jar:/apex/com.android.conscrypt/javalib/conscrypt.jar:/apex/com.android.media/javalib/updatable-media.jar:/apex/com.android.mediaprovider/javalib/framework-mediaprovider.jar:/apex/com.android.os.statsd/javalib/framework-statsd.jar:/apex/com.android.permission/javalib/framework-permission.jar:/apex/com.android.sdkext/javalib/framework-sdkextensions.jar:/apex/com.android.wifi/javalib/framework-wifi.jar:/apex/com.android.tethering/javalib/framework-tethering.jar
+COLORTERM=truecolor
+TMPDIR=/data/data/com.termux/files/usr/tmp
+TERMUX_VERSION=0.118.0
+TERM=xterm-256color
+ANDROID_DATA=/data
+PATH=/data/data/com.termux/files/usr/bin
+TERMUX_APK_RELEASE=GITHUB
+ANDROID_ROOT=/system
+ANDROID_I18N_ROOT=/apex/com.android.i18n
+LANG=en_US.UTF-8
+LD_PRELOAD=/data/data/com.termux/files/usr/lib/libtermux-exec.so
+ANDROID_TZDATA_ROOT=/apex/com.android.tzdata
+SHELL=/data/data/com.termux/files/usr/bin/zsh
+TERMUX_IS_DEBUGGABLE_BUILD=1
+PWD=/data/data/com.termux/files/home/shelldev/demo8
+ANDROID_ART_ROOT=/apex/com.android.art
+LOGNAME=u0_a381
+SHLVL=1
+OLDPWD=/data/data/com.termux/files/home/shelldev
+ZSH=/data/data/com.termux/files/home/.oh-my-zsh
+PAGER=less
+LESS=-R
+LSCOLORS=Gxfxcxdxbxegedabagacad
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:
+PREFIX=/data/data/com.termux/files/usr
+_=/data/data/com.termux/files/usr/bin/env 
+ 
+  export: 
+ ANDROID_ART_ROOT=/apex/com.android.art
+ANDROID_DATA=/data
+ANDROID_I18N_ROOT=/apex/com.android.i18n
+ANDROID_ROOT=/system
+ANDROID_TZDATA_ROOT=/apex/com.android.tzdata
+BOOTCLASSPATH=/apex/com.android.art/javalib/core-oj.jar:/apex/com.android.art/javalib/core-libart.jar:/apex/com.android.art/javalib/core-icu4j.jar:/apex/com.android.art/javalib/okhttp.jar:/apex/com.android.art/javalib/bouncycastle.jar:/apex/com.android.art/javalib/apache-xml.jar:/system/framework/framework.jar:/system/framework/ext.jar:/system/framework/telephony-common.jar:/system/framework/voip-common.jar:/system/framework/ims-common.jar:/system/framework/framework-atb-backward-compatibility.jar:/system/framework/tcmiface.jar:/system/framework/telephony-ext.jar:/system/framework/qcom.fmradio.jar:/system/framework/QPerformance.jar:/system/framework/UxPerformance.jar:/system/framework/WfdCommon.jar:/system/framework/vivo-framework.jar:/system/framework/vivo-media.jar:/system/framework/framework-adapter.jar:/system/framework/soc-framework.jar:/system/framework/vivo-vgcclient.jar:/system/framework/vivo-emmclient.jar:/apex/com.android.conscrypt/javalib/conscrypt.jar:/apex/com.android.media/javalib/updatable-media.jar:/apex/com.android.mediaprovider/javalib/framework-mediaprovider.jar:/apex/com.android.os.statsd/javalib/framework-statsd.jar:/apex/com.android.permission/javalib/framework-permission.jar:/apex/com.android.sdkext/javalib/framework-sdkextensions.jar:/apex/com.android.wifi/javalib/framework-wifi.jar:/apex/com.android.tethering/javalib/framework-tethering.jar
+COLORTERM=truecolor
+DEX2OATBOOTCLASSPATH=/apex/com.android.art/javalib/core-oj.jar:/apex/com.android.art/javalib/core-libart.jar:/apex/com.android.art/javalib/core-icu4j.jar:/apex/com.android.art/javalib/okhttp.jar:/apex/com.android.art/javalib/bouncycastle.jar:/apex/com.android.art/javalib/apache-xml.jar:/system/framework/framework.jar:/system/framework/ext.jar:/system/framework/telephony-common.jar:/system/framework/voip-common.jar:/system/framework/ims-common.jar:/system/framework/framework-atb-backward-compatibility.jar:/system/framework/tcmiface.jar:/system/framework/telephony-ext.jar:/system/framework/qcom.fmradio.jar:/system/framework/QPerformance.jar:/system/framework/UxPerformance.jar:/system/framework/WfdCommon.jar:/system/framework/vivo-framework.jar:/system/framework/vivo-media.jar:/system/framework/framework-adapter.jar:/system/framework/soc-framework.jar:/system/framework/vivo-vgcclient.jar:/system/framework/vivo-emmclient.jar
+EXTERNAL_STORAGE=/sdcard
+HOME=/data/data/com.termux/files/home
+LANG=en_US.UTF-8
+LD_PRELOAD=/data/data/com.termux/files/usr/lib/libtermux-exec.so
+LESS=-R
+LOGNAME=u0_a381
+LSCOLORS=Gxfxcxdxbxegedabagacad
+LS_COLORS='rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:'
+OLDPWD=/data/data/com.termux/files/home/shelldev
+PAGER=less
+PATH=/data/data/com.termux/files/usr/bin
+PREFIX=/data/data/com.termux/files/usr
+PWD=/data/data/com.termux/files/home/shelldev/demo8
+SHELL=/data/data/com.termux/files/usr/bin/zsh
+SHLVL=1
+TERM=xterm-256color
+TERMUX_APK_RELEASE=GITHUB
+TERMUX_APP_PID=22257
+TERMUX_IS_DEBUGGABLE_BUILD=1
+TERMUX_MAIN_PACKAGE_FORMAT=debian
+TERMUX_VERSION=0.118.0
+TMPDIR=/data/data/com.termux/files/usr/tmp
+ZSH=/data/data/com.termux/files/home/.oh-my-zsh
