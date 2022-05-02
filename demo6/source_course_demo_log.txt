@@ -1,0 +1,5 @@
+#source方式执行
+开启子shell，并进行输出
+进行子变量输出son_var_value
+进行输出进程树?───?───com.termux─┬─zsh───zsh───pstree
+                   └─28*[{com.termux}]

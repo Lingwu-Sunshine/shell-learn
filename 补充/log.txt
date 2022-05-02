@@ -1,0 +1,44 @@
+reae命令的-p参数在手机的termux上无法正常运行，且报如下错误：
+read: -p: no coprocess
+原因：因为手机上使用了zsh解释器，并非bash原生解释器。
+zsh不支持-p参数，
+秋月大佬解答
+秋月、 20:53:24
+read "message"
+
+秋月、 20:53:49
+好像也没提示
+
+秋月、 20:54:49
+read 'message?[hint]'
+
+秋月、 20:55:30
+read 'message?write something'
+
+秋月、 20:55:46
+你试试这一句就知道怎么弄了
+
+秋月、 20:56:12
+然后有人说可以用zle的vared
+
+秋月、 20:56:26
+man zshbuiltins
+
+秋月、 20:56:39
+有些东西和bash不一样，可以看看手册
+
+秋月、 20:57:59
+man zshbuiltins
+
+秋月、 20:58:05
+然后搜索read
+
+
+
+具体可查看手册，
+留意：man zshbuiltins查看用户使用手册命令
+安装手册指令：pkg install man
+
+read输出提示可用例子：
+read 'message?write something'
+read demo?tip

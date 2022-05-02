@@ -1,0 +1,11 @@
+将双引号变量1进行输出var1=var1value
+将单引号变量2进行输出var2=‘var2value’
+将大写变量进行输出以验证区分大小写Var3=var3value
+单引号变量4引用变量1进行输出var4=‘var1value’
+双引号变量5引用变量3进行输出var5=var3value
+进行输出全局变量HISTSIZE:50000 
+进行输出状态变量0
+输出$0：var_demo.sh
+不加括号输出$1：djd
+加圆括号进行输出$(1)：~/shelldev
+加花括号进行输出${1}:djd
