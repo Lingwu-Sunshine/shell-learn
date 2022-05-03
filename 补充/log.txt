@@ -42,3 +42,8 @@ man zshbuiltins
 read输出提示可用例子：
 read 'message?write something'
 read demo?tip
+
+
+验证：
+2022年5月3日 16:41
+在蓝桥云的linux环境中{ read -p "显示信息" name}命令也无法使用，报样的错
