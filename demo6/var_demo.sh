@@ -9,7 +9,7 @@
 #大写变量
  Var3="var3value"
 #单引号引用变量
- var4=‘$var1’
+ var4='$var1'
 #双引号引用变量
  var5="$Var3"
 
