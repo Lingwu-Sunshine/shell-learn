@@ -1,0 +1,21 @@
+
+运行命令source demo.sh dkkd dkdk ddkdo
+
+
+请输入三个参数
+进行输出第0个，脚本名和路径，也就是$0：demo.sh
+进行输出第1个参数，$1:dkkd
+进行输出第2个参数，$2:dkdk
+进行输出第3个参数，$1:ddkdo
+
+参数的总个数为：3
+进行$*输出dkkd dkdk ddkdo
+进行$@输出dkkd dkdk ddkdo
+
+进行$*和$@的区分
+先进行$*的区分
+dkkd dkdk ddkdo
+这里为$@的区分
+dkkd
+dkdk
+ddkdo
