@@ -1,0 +1,7 @@
+echo_demo_log.txt
+echo_demo.sh
+eval_demo_log.sh
+eval_demo.sh
+exec_demo.sh
+review.md
+eval多个命令练习
