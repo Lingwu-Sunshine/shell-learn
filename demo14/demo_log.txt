@@ -1,0 +1,3 @@
+原字符串qweiowrowjrowjajflajf
+输出字符串长度21
+对字符串进行截取操作owjrowjajf
