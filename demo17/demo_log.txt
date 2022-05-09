@@ -1,0 +1,13 @@
+输出字符串1的长度11
+进行输出字符串1:i am string
+截取字符串，从2号位开始：am string
+截取字符串，从3开始长度为5的字符串：m str
+输出字符串2:abcABC123ABCabc
+进行字符串的删除操作，从开头开始删除，删除一个a-c:ABC123ABCabc
+进行字符串的删除操作，从开头开始删除，删除多个a-c:
+进行字符串的删除操作，从结尾开始删除，删除一个a-c:abcABC123ABC
+进行字符串的删除操作，从开头开始删除，删除多个a-c:
+进行字符串的删除操作，从开头开始删除，删除一个a-C:123ABCabc
+进行输出字符串3:hello,man, i am you brother
+进行单个替换输出：hello,boy, i am you brother
+进行多个替换输出:hellO,man, i am yOu brOther
