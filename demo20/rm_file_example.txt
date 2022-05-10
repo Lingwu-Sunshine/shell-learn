@@ -1,0 +1,18 @@
+
+##############记录课堂代码，并不运行，待后期验征###############
+
+find xargs 搜索，且删除
+#删除7天以上的过期数据
+
+find 需要搜索的目录 -name 你要搜索的文件名字 -type 文件类型 -mtime +7 |xargs rm -f
+
+#cat del_data.sh #删除文件的脚本名
+#以下shell语法是否有bug
+dir_path="/data/mysql_back_data/"
+
+
+# 如果有bug歧义，就会在当前目录下，搜索，删除
+find ${dir_path} -name '*.tar.gz' -type f -mtine+7 |xargs rm -f
+
+#变量扩展改进
+find ${dir_path:=/data/mysql_back_data/} -name '*.tar.gz' -type -f -mtime +7 |xargs rm -f

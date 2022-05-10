@@ -1,0 +1,4 @@
+此时变量的值为:var1,var1
+bash: var: word
+此时变量的值为
+
