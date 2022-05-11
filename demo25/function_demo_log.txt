@@ -1,0 +1,4 @@
+Please input youre first number:3
+Please input your operator:-
+Please input youre second number:6
+3-6的结果是:-3
