@@ -1,0 +1,7 @@
+u0_a381@localhost  ~/shell-program/demo31   ub  bash
+~/shell-program/demo31 $ source demo.sh
+请输入你的名字：87
+请输入你的年龄:92
+你刚刚输入的信息为：\n\r名字：87,年龄：92
+~/shell-program/demo31 $ exit
+exit
