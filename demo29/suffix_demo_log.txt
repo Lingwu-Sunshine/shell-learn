@@ -1,0 +1,5 @@
+u0_a381@localhost  ~/shell-program/demo29   ub  source suffix_demo.sh jrkdkjd.jpg
+这的确是以jpg结尾的文件~恭喜你
+ u0_a381@localhost  ~/shell-program/demo29   ub  source suffix_demo.sh jrkdkjhdkjr
+这不是jpg文件！不好意思
+
