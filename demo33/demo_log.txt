@@ -1,0 +1,8 @@
+u0_a381@localhost  ~/shell-program/demo33   ub  source demo.sh
+进行创建文件
+ u0_a381@localhost  ~/shell-program/demo33   ub  ls
+demo.sh  review.md  test
+ u0_a381@localhost  ~/shell-program/demo33   ub  source demo.sh
+文件已经存在，不会再进行动作
+进行创建文件
+ u0_a381@localhost  ~/shell-program/demo33   ub 
