@@ -1,0 +1,5 @@
+u0_a381@localhost  ~/shell-program/demo34   ub  source test_d_demo.sh
+没有对应的目录进行创建目录
+ u0_a381@localhost  ~/shell-program/demo34   ub  source test_d_demo.sh
+存在一个目录
+mkdir: cannot create directory ‘test’: File exists

@@ -1,0 +1,16 @@
+进行输出变量
+
+this is a string
+
+
+this is null string
+test -z测试
+this is a null string
+test -n测试
+no
+
+this is not null string
+test -n测试
+this is a string test -n
+test -z测试
+this is string test -z
