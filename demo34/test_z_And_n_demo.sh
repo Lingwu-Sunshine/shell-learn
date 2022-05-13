@@ -17,7 +17,7 @@ echo "test -z测试"
 test -z $nullString && echo "this is a null string" || echo "this is a  null string test -z"
 
 echo "test -n测试"
-test -n "" && echo ok || echo no
+test -n "$nullString" && echo ok || echo no
 
 
 echo "\n\rthis is not null string"
