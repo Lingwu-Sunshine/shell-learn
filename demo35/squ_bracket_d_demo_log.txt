@@ -1,0 +1,6 @@
+u0_a381@localhost  ~/shell-program/demo35   ub  source squ_bracket_d_demo.sh
+中括号条件测试d参数使用
+进行创建目录
+ u0_a381@localhost  ~/shell-program/demo35   ub  source squ_bracket_d_demo.sh
+中括号条件测试d参数使用
+此目录己存在

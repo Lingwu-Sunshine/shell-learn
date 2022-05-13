@@ -1,0 +1,4 @@
+u0_a381@localhost  ~/shell-program/demo35   ub  source squ_bracket_f_demo.sh
+进行创建文件
+ u0_a381@localhost  ~/shell-program/demo35   ub  source squ_bracket_f_demo.sh
+已存在此文件

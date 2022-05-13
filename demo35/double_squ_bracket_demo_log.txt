@@ -1,0 +1,12 @@
+u0_a381@localhost  ~/shell-program/demo35   ub  source double_squ_bracket_demo.sh
+你没有写入权限，再见！不送!!
+ u0_a381@localhost  ~/shell-program/demo35   ub  cat double_squ_bracket_demo.sh
+#!/bin/bash
+
+###第三十五节双中括号条件判断例子练习###
+[[ -w "demo.txt" ]] && (echo "看看星星，再看看你" >> demo.txt) || echo "你没有写入权限，再见！不送!!"
+ u0_a381@localhost  ~/shell-program/demo35   ub  touch demo.txt
+ u0_a381@localhost  ~/shell-program/demo35   ub  source double_squ_bracket_demo.sh
+ u0_a381@localhost  ~/shell-program/demo35   ub  cat demo.txt
+看看星星，再看看你
+ u0_a381@localhost  ~/shell-program/demo35   ub 
