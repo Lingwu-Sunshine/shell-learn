@@ -1,0 +1,10 @@
+ ling@ling  ~/桌面/shelldev/shell-program/demo40   ub ±  bash demo.sh
+please your input a number(1 or 2):7
+你输入的数字不是1也不是2
+ ✘ ling@ling  ~/桌面/shelldev/shell-program/demo40   ub ±  bash demo.sh
+please your input a number(1 or 2):2
+你刚刚输入的数字为2
+ ling@ling  ~/桌面/shelldev/shell-program/demo40   ub ±  bash demo.sh
+please your input a number(1 or 2):1
+你刚刚输入的数字为1
+
