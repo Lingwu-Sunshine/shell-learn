@@ -1,0 +1,59 @@
+u0_a381@localhost  ~/shell-program/demo41   ub  vim demo.sh
+ u0_a381@localhost  ~/shell-program/demo41   ub  bash demo.sh
+ 1. install lamp
+ 2. install lnmp
+ 3. exit
+  please input your number:
+
+2
+starting installing lnmp .....waiting...
+the lnmp file does not exist or can not be exec
+ ✘ u0_a381@localhost  ~/shell-program/demo41   ub  echo $?
+1
+ u0_a381@localhost  ~/shell-program/demo41   ub  vim demo.sh
+ u0_a381@localhost  ~/shell-program/demo41   ub  bash demo.sh
+ 1. install lamp
+ 2. install lnmp
+ 3. exit
+  please input your number:
+
+2
+starting installing lnmp .....waiting...
+lnmp is installed
+ u0_a381@localhost  ~/shell-program/demo41   ub  bash demo.sh
+ 1. install lamp
+ 2. install lnmp
+ 3. exit
+  please input your number:
+
+3
+byebye
+ ✘ u0_a381@localhost  ~/shell-program/demo41   ub  bash demo.sh
+ 1. install lamp
+ 2. install lnmp
+ 3. exit
+  please input your number:
+
+1
+starting installing lamp .....waiting...
+lanmp is installed
+ u0_a381@localhost  ~/shell-program/demo41   ub  bash demo.sh
+ 1. install lamp
+ 2. install lnmp
+ 3. exit
+  please input your number:
+
+3
+byebye
+ ✘ u0_a381@localhost  ~/shell-program/demo41   ub  echo $?
+3
+ u0_a381@localhost  ~/shell-program/demo41   ub  bash demo.sh
+ 1. install lamp
+ 2. install lnmp
+ 3. exit
+  please input your number:
+
+8
+the num your input must be 1,2,3
+你的输入有误
+ ✘ u0_a381@localhost  ~/shell-program/demo41   ub 
